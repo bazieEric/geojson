@@ -1,0 +1,15 @@
+{
+    "created": "2022-01-06T14:04:48.510413",
+    "description": "GeoJSON ADM2 boundaries for Democratic Republic of the Congo",
+    "format": "GeoJSON",
+    "download_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/COD/ADM2/geoBoundaries-COD-ADM2.geojson",
+    "id": "14526c81-a422-4b52-becb-56358c314306",
+    "last_modified": "2024-05-28T18:46:28.232426",
+    "metadata_modified": "2024-07-20T00:10:36.986087",
+    "microdata": false,
+    "dataset_id": "cb333e8a-aaac-49c7-8bd2-b795c3a586c5",
+    "resource_type": "api",
+    "name": "geoBoundaries-COD-ADM2.geojson",
+    "mimetype": null,
+    "size": "0.0B"
+}
